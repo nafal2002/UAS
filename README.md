@@ -198,10 +198,10 @@ while True:
 
 - berikut ini adalah gambaran menambahkan data mahasiswa baru bernama nabila
 
-![Gambar1](ss/input_screenshot2.png)
+![Gambar1](ss/screenshot2.png)
 
 - gambaran menghapus data mahasiswa bernama nabila di bawah ini 
 
-![Gambar1](ss/input_screenshot3.png)
+![Gambar1](ss/screenshot3.png)
 
 ## selesai dan arigato ...
