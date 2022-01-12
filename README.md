@@ -1,4 +1,4 @@
-# Berikut adalah hasil praktikum UAS Mata Kuliah Pemrograman - Python
+# UAS Mata Kuliah Pemrograman - Python
 
 ### UAS Bahasa pemprogaman-python
 ```py
